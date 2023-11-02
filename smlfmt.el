@@ -58,7 +58,7 @@
   :program smlfmt-process-path
   :args smlfmt-extra-args
   :group 'smlfmt
-  :lighter " Or"
+  :lighter " Fmt"
   :keymap smlfmt-mode-map)
 
 (defalias 'smlfmt 'smlfmt-format-buffer)
