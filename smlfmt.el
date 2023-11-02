@@ -2,6 +2,7 @@
 
 ;; Author: Troels Henriksen <athas@sigkill>
 ;; Version: 0.1.0
+;; URL: https://github.com/diku-dk/smlfmt.el
 ;; Keywords: files, tools
 ;; Package-Requires: ((emacs "24") (reformatter "0.4"))
 
