@@ -17,6 +17,10 @@ With [use-package](https://github.com/jwiegley/use-package/):
    ("C-c r" . smlfmt-format-buffer)))
 ```
 
+* Or just `load-file` the `smlfmt.el` file.
+
+* Or add its directory to your `load-path` and `(require 'smlfmt)`.
+
 ## Additional configuration
 
 The package can be configured via the usual `customize-group RET
