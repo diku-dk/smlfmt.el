@@ -1,5 +1,7 @@
 # smlfmt.el
 
+[![MELPA](https://melpa.org/packages/smlfmt-badge.svg)](https://melpa.org/#/smlfmt)
+
 Format SML source code using
 [smlfmt](https://github.com/shwestrick/smlfmt). Requires
 `reformatter.el`, on top of which this package is a very small number
